@@ -14,9 +14,9 @@ DB_USER='type in username'
 DB_PASS='type in password'
 DB_NAME=simple_blog
 
-5)do node app.js in terminal
+5) do node app.js in terminal
 
-6)go to http://127.0.0.1:3000/blogs
+6) go to http://127.0.0.1:3000/blogs
 
 
 ## Demo
