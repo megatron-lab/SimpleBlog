@@ -4,6 +4,15 @@
 ## Description
 Write a blog and have it published on the web. Users can write as many blogs as they want and they can create, read, update, and delete their blogs.
 
+## RESTful routes involved
+1) Index
+2) New
+3) Create
+4) Edit
+5) Update
+6) Show
+7) Destroy
+
 ## Installation
 Instructions for running this on local server.
 1) Clone or download source code.
