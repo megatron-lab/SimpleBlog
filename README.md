@@ -1,8 +1,8 @@
 # SimpleBlog App
-> A simple blog app designed with RESTful architecture. Users can create, read, update, or destroy blogs.
+> A simple blog app designed with RESTful architecture. Users can create, read, update, or delete blogs.
 
 ## Description
-Write a blog and have it published on the web. Users can write as many blogs as they want and they can create, read, update, or destroy their blogs.
+Write a blog and have it published on the web. Users can write as many blogs as they want and they can create, read, update, and delete their blogs.
 
 ## Installation
 Instructions for running this on local server.
